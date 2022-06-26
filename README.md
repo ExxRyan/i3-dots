@@ -6,7 +6,7 @@ Repository for my i3 setup
 
 ```
 git clone https://github.com/ExxRyan/i3-dots.git
-cd i3-dots.git
+cd i3-dots
 cp -r config/* ~/.config/
 mkdir ~/.local/share/fonts ~/.local/share/rofi/themes
 cp -r fonts/* ~/.local/share/fonts/
